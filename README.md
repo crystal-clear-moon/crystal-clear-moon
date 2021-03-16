@@ -5,7 +5,7 @@
 
 Skills:<br>
 &emsp;    -React/TypeScript<br>
-&emsp;    -Material UI/Gatsby/Ant Design<br>
+&emsp;    -Next.js/Material UI/Gatsby/Ant Design<br>
 &emsp;    -GraphQL<br>
 &emsp;    -Vue.js<br>
 &emsp;    -JavaScript/jQuery<br>
