@@ -20,4 +20,3 @@ Skills:<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-lieu-940a79205/)
-[![Portfolio]](https://jack-moon628.github.io/)
