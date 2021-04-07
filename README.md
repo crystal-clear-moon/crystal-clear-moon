@@ -4,11 +4,11 @@
 <p>I am a full-stack developer specialized in <b>JavaScript</b> and <b>JavaScript frameworks</b>. My focus is always on building the best secure, reliable, and with good User Experience websites.</p>
 
 Skills:<br>
-&emsp;    -React/TypeScript<br>
-&emsp;    -Next.js/Material UI/Gatsby/Ant Design<br>
+&emsp;    -React/Next.js/Material UI/Gatsby/Ant Design<br>
+&emsp;    -Angular.js<br>
 &emsp;    -GraphQL<br>
-&emsp;    -Vue.js<br>
-&emsp;    -JavaScript/jQuery<br>
+&emsp;    -Vue.js/Nuxt.js<br>
+&emsp;    -JavaScript/TypeScript/jQuery<br>
 &emsp;    -CSS/SCSS<br>
 &emsp;    -HTML5<br>
 &emsp;    -Google Maps<br>
