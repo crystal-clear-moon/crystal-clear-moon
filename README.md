@@ -6,7 +6,6 @@
 Skills:<br>
 &emsp;    -React/Next.js/Material UI/Gatsby/Ant Design<br>
 &emsp;    -Angular.js<br>
-&emsp;    -GraphQL<br>
 &emsp;    -Vue.js/Nuxt.js<br>
 &emsp;    -JavaScript/TypeScript/jQuery<br>
 &emsp;    -CSS/SCSS<br>
@@ -16,7 +15,7 @@ Skills:<br>
 &emsp;    -Git<br>
 &emsp;    -Node.js/Express.js<br>
 &emsp;    -Laravel/PHP<br>
-&emsp;    -MongoDB/MySQL<br>
+&emsp;    -MongoDB/MySQL/GraphQL<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-lieu-940a79205/)
