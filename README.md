@@ -8,7 +8,7 @@ Skills:<br>
 &emsp;    -Angular.js<br>
 &emsp;    -Vue.js/Nuxt.js<br>
 &emsp;    -JavaScript/TypeScript/jQuery<br>
-&emsp;    -CSS/SCSS<br>
+&emsp;    -CSS/SCSS/Tailwind CSS<br>
 &emsp;    -HTML5<br>
 &emsp;    -Google Maps<br>
 &emsp;    -AWS<br>
