@@ -17,9 +17,9 @@ Skills:<br>
 &emsp;    -MongoDB/MySQL/GraphQL<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crystal-clear-moon&show_icons=true&locale=en" alt="crystal-clear-moon" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crystal-clear-moon" alt="crystal-clear-moon" /></a> </p>
+
+<p align="left"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crystal-clear-moon&show_icons=true&locale=en" alt="crystal-clear-moon" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
