@@ -3,18 +3,17 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 Skills:<br>
-&emsp;    -React/Next.js/Material UI/Gatsby/Ant Design<br>
-&emsp;    -Angular.js<br>
+&emsp;    -React/Next.js/Gatsby<br>
+&emsp;    -Material UI/Ant Design<br>
+&emsp;    -Angular<br>
 &emsp;    -Vue.js/Nuxt.js<br>
 &emsp;    -JavaScript/TypeScript/jQuery<br>
 &emsp;    -CSS/SCSS/Tailwind CSS<br>
 &emsp;    -HTML5<br>
-&emsp;    -Google Maps<br>
-&emsp;    -AWS<br>
-&emsp;    -Git<br>
-&emsp;    -Node.js/Express.js<br>
+&emsp;    -Google/AWS/Git<br>
+&emsp;    -Node.js/Express.js/Nest.js<br>
 &emsp;    -Laravel/PHP<br>
-&emsp;    -MongoDB/MySQL/GraphQL<br>
+&emsp;    -MongoDB/MySQL/Postgresql/GraphQL<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 
 <h3 align="left">Languages and Tools:</h3>
